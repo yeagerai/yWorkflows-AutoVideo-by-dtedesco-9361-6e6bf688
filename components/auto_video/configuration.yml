@@ -1,0 +1,9 @@
+description: The AutoVideo component is designed to generate an automated video highlighting
+  the life and achievements of a famous person. It does so by taking a name as input,
+  gathering relevant data from various sources, and then creating an appealing video
+  montage that features not only the subject's picture but also a concise summary
+  of their accomplishments and contributions.
+name: AutoVideo
+parameters:
+  music_track: default_track
+  video_length: '120'
