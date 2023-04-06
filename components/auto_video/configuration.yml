@@ -3,7 +3,9 @@ description: The AutoVideo component is designed to generate an automated video 
   gathering relevant data from various sources, and then creating an appealing video
   montage that features not only the subject's picture but also a concise summary
   of their accomplishments and contributions.
+input-class: FamousPersonInputModel
 name: AutoVideo
+output-class: VideoOutputModel
 parameters:
   music_track: default_track
   video_length: '120'
